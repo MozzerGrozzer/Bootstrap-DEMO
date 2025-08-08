@@ -1,0 +1,10 @@
+.container{
+    background-color: pink;
+    border: 2px solid black;
+}
+
+.container-sm{background-color: aqua;}
+.container-md{background-color: green;}
+.container-lg{background-color: red;}
+.container-xl{background-color: lavender;}
+.container-xxl{background-color: mediumorchid;}
